@@ -1,0 +1,37 @@
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\bin\Debug\SystemSchool.exe.config
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\bin\Debug\SystemSchool.exe
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\bin\Debug\SystemSchool.pdb
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.Form1.resources
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmLogin.resources
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.Properties.Resources.resources
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.exe
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.pdb
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmMenu.resources
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmCalculadora.resources
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmTasaDeCambio.resources
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmNominaSemanales.resources
+C:\Users\Admin\source\repos\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmConsurta.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\bin\Debug\SystemSchool.exe.config
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\bin\Debug\SystemSchool.exe
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\bin\Debug\SystemSchool.pdb
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.csproj.AssemblyReference.cache
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.Form1.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmCalculadora.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmLogin.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmMenu.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmNominaSemanales.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmTasaDeCambio.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.Properties.Resources.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.csproj.GenerateResource.cache
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.exe
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.pdb
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.FrmConsulta.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.Estudiantes.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.Docentes.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.Suplidores.resources
+C:\Users\Cristhian Taveras\Desktop\SystemSchool\SystemSchool\obj\Debug\SystemSchool.Form2.resources
